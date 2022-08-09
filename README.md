@@ -6,7 +6,7 @@ Trabalho na área de tecnologia há quase 3 anos, possuindo ampla experiência e
 - <a href="https://www.kaggle.com/hgosouza" rel="nofollow">Kagle</a>
 
 ##
-<img align="center" alt="Rafa-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="max-width: 100%;"><img align="center" alt="Rafa-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;">
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="max-width: 100%;"><img align="center" alt="Rafa-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;">
 
 ##
 
