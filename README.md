@@ -7,6 +7,7 @@ Trabalho na área de tecnologia há quase 3 anos, possuindo ampla experiência e
 
 ##
 
-<img align="center" alt="Higor-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">    <img align="center" alt="Higor-R" height="50" width="60" src="https://user-images.githubusercontent.com/102627812/183654129-6cf87f53-b3a5-41cf-9b7d-4a1a16473492.png" style="max-width: 100%;">    <img align="center" alt="Higor-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;">    <img align="center" alt="Higor-Dart" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" style="max-width: 100%;">##
+<img align="center" alt="Higor-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">    <img align="center" alt="Higor-R" height="40" width="50" src="https://user-images.githubusercontent.com/102627812/183654129-6cf87f53-b3a5-41cf-9b7d-4a1a16473492.png" style="max-width: 100%;">    <img align="center" alt="Higor-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;">    <img align="center" alt="Higor-Dart" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" style="max-width: 100%;">
+##
 
 ![Without Data](https://user-images.githubusercontent.com/102627812/183553176-44d9d39e-0eae-49ef-a864-b006c96be9a5.jpeg)
