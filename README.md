@@ -7,7 +7,7 @@ Trabalho na área de tecnologia há quase 3 anos, possuindo ampla experiência e
 
 ##
 
-<img align="center" alt="Rafa-HTML" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" style="max-width: 100%;">    <img align="center" alt="Rafa-HTML" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;">
+<img align="center" alt="Rafa-Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">    <img align="center" alt="Rafa-HTML" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%;">    <img align="center" alt="Rafa-HTML" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" style="max-width: 100%;">
 
 ##
 
