@@ -2,9 +2,9 @@
 
 Trabalho na área de tecnologia há quase 3 anos, possuindo ampla experiência em banco de dados MySQL e suporte ao usuário. 
 
-Atualmente tenho me dedicado aos estudos de Phyton e R. 
+Atualmente tenho me dedicado aos estudos de Phyton, R e Business Intelligence.
 
-Sou um dos responsáveis por implementar e desenvolver o sistema CRM na 299 Imports, além de gerenciar e administrar todos os dados relacionados a marca.
+Sou um dos responsáveis por implementar e desenvolver o sistema CRM na 299 Imports, além de gerenciar e administrar todos os dados relacionados a marca, gerando dados de KPI's, vendas, financeiro e estoque.
 
 <a href="https://api.whatsapp.com/send?phone=5561991088509" rel="nofollow"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="max-width: 100%;"></a>
 <a href="https://t.me/hgosouza" rel="nofollow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="max-width: 100%;"></a>
